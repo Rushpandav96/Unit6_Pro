@@ -1,40 +1,40 @@
-.head{
+#head{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
-.head-img-container{
+#head-img-container{
    height: 740px;
    border: 2px solid black;
    display: flex;
 }
-.head-img-container > div{
+#head-img-container > div{
     width: 50%;
    
 }
 
-.head-img2{
+#head-img2{
     background-color: orange;
     height: 100%;
     width: 100%;
 }
-.head-img1{
+#head-img1{
     display: flex;
     flex-direction: column;
     padding: 0px 70px;
     margin: 30px 0px;
 }
-.head-img1 > h1{
+#head-img1 > h1{
     font-size: 65px;
     text-align: left;
 }
-.head-img1 > h3{
+#head-img1 > h3{
     text-align: left;
 }
-.head-img1 > form > div{
+#head-img1 > form > div{
 display: flex;
 }
-.email-input{
+#email-input{
     text-align: left;
     display: flex;
     flex-direction: column;
@@ -42,14 +42,14 @@ display: flex;
     margin: 5px;
     
 }
-.email-input> input{
+#email-input> input{
     background-color: rgb(244, 232, 217);
     padding: 5px;
     height: 30px;
     border: 0.3px solid black;
 }
 
-.pin-code-input{
+#pin-code-input{
     text-align: left;
     display: flex;
     flex-direction: column;
@@ -57,13 +57,13 @@ display: flex;
     margin: 5px;
 
 }
-.pin-code-input> input{
+#pin-code-input> input{
     background-color: rgb(244, 232, 217);
     padding: 5px;
     border: 0.3px solid black;
     height: 30px;
 }
-.button-first{
+#button-first{
     background-color: rgb(33, 33, 230);
     height: 42px;
     margin-top: 26px;
@@ -78,49 +78,49 @@ display: flex;
 
 /* djfajfdlkja;f */
 
-.first-container{
+#first-container{
        height: 350px;
        display: flex;
        padding: 20px 80px;
        justify-content: space-around;
        padding: 100px;
 }
-.first-container-cards{
+#first-container-cards{
     height: 100%;
     border: 2px solid black;
     width: 100%;
 }
-.second-div{
+#second-div{
     height: 1200px;
     background-color: orange;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.menu{
+#menu{
     width: 50%;
     height: 85%;
     background-color: white;
    
 }
-.menu > h1{
+#menu > h1{
     height: 15%;
 }
-.menu-items{
+#menu-items{
     height: 70% ;
 }
-.menu-flex{
+#menu-flex{
     height: 33%;
     padding: 10px;
     display: flex;
     justify-content: space-around;
 
 }
-.items{
+#items{
     width: 30%;
     height: 90%;
 }
-.menu-btn{
+#menu-btn{
     height: 40px;
     width: 90%;
     margin: 10px auto;
@@ -130,33 +130,33 @@ display: flex;
     font-weight: bolder;
     border: none;
 }
-.items > img{
+#items > img{
     padding: 10px;
     max-width: 90%;
     border-radius: 7px;
 }
-.third-div{
+#third-div{
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
-.heading-third{
+#heading-third{
     padding: 10px 300px;
 }
 
 
-.third-item-container{
+#third-item-container{
     padding: 80px;
     display: flex;
     height: 240px;
 }
-.third-items{
+#third-items{
     height: 100%;
     width:19% ;
     background-color: black;
     margin: 5px 14px;
 }
-.third-btn{
+#third-btn{
     height: 40px;
     width: 10%;
     margin: 10px auto;
@@ -168,15 +168,15 @@ display: flex;
 }
 
 
-.last-container{
+#last-container{
     height: 2000px;
 }
-.upper-container{
+#upper-container{
     height: 50%;
     background-color: green;
 }
 
-.lower-container{
+#lower-container{
     height: 50%;
     background-color: red;
 }
