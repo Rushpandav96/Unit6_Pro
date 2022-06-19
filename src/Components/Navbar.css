@@ -1,0 +1,140 @@
+#main {
+    height: 32px;
+    width: 1519px;
+    display: block;
+    text-align: center;
+}
+
+#ancher {
+    height: 32px;
+    width: 107px;
+    padding: 10px 24px 10px 24px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 224px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+    border-bottom: 2px solid #03514E;
+}
+
+#anch {
+    height: 32px;
+    width: 141px;
+    padding: 10px 24px 10px 24px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 224px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+    color: #333333;
+}
+
+#sub-main {
+    height: 72px;
+    width: 1515px;
+    padding: 8px 20px 8px 20px;
+    display: block;
+    z-index: 1000;
+    position: sticky;
+    line-height: 20px;
+}
+
+#sub2-main {
+    height: 56px;
+    width: 1430px;
+    margin: 0 20px 0 20px;
+    display: flex;
+    line-height: 20px;
+}
+#o{
+    height: 56px;
+    width: 120px;
+    padding: 20px 16px 20px 16px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    vertical-align: top;
+    color: #303030;
+    cursor: pointer;
+    display: inline-block;
+}
+#t{
+    height: 56px;
+    width: 117px;
+    padding: 20px 16px 20px 16px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    vertical-align: top;
+    color: #303030;
+    cursor: pointer;
+    display: inline-block;
+}
+#th{
+    height: 56px;
+    width: 64px;
+    padding: 20px 16px 20px 16px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    vertical-align: top;
+    color: #303030;
+    cursor: pointer;
+    display: inline-block;
+}
+#f{
+    height: 56px;
+    width: 122px;
+    padding: 20px 16px 20px 16px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    vertical-align: top;
+    color: #303030;
+    display: inline-block;
+    cursor: pointer;
+}
+#fi{
+    height: 56px;
+    width: 62px;
+    padding: 20px 16px 20px 16px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    vertical-align: top;
+    color: #303030;
+    display: inline-block;
+    cursor: pointer;
+}
+#s{
+    height: 56px;
+    width: 69px;
+    padding: 20px 16px 20px 16px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    color: #303030;
+    display:block;
+    cursor: pointer;
+}
+#se{
+    height: 33px;
+    width: 80px;
+    padding: 6px 10px 6px 10px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    vertical-align: top;
+    color: #303030;
+    display: flex;
+    cursor: pointer;
+}

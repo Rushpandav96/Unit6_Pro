@@ -1,0 +1,237 @@
+#main{
+    height: 434px;
+    width: 1519px;
+}
+#main_sub{
+    height: 64px;
+    width: 1519px;
+    padding: 8px 0 8px 0;
+    display: flex;
+   
+}
+#main_sub1{
+    height: 47px;
+    width: 1519px;
+    display: flex;
+    
+}
+#main_sub2{
+    height: 54px;
+    width: 1366px;
+    display: flex;
+}
+#one{
+height: 40px;
+width: 121px;
+padding: 8px 11px 8px 11px;
+display: block;
+cursor: pointer;
+font-size: 16px;
+color: black;
+text-align: left;
+}
+#two{
+    height: 40px;
+    width: 67px;
+    padding: 8px 11px 8px 11px;
+    display: block;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    color: black;
+}
+#three{
+    height: 40px;
+    width: 115px;
+    padding: 8px 11px 8px 11px;
+    display: block;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+    text-align: left;
+}
+#four{
+    height: 40px;
+    width: 58px;
+    padding: 8px 11px 8px 11px;
+    display: block;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+    text-align: left;
+}
+#norm{
+    height: 47px;
+    width: 506px;
+    text-align: center;
+    margin-top: 10px;
+}
+#h{
+    height: auto;
+    width: auto;
+    display: inline;
+    cursor: pointer;
+    line-height: 24px;
+    text-align: center;
+    color: #303030;
+}
+#five{
+    height: 40px;
+    width: 82px;
+    padding: 8px 11px 8px 11px;
+    display: block;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+    text-align: left;
+}
+#six{
+    height: 40px;
+    width: 56px;
+    padding: 8px 11px 8px 11px;
+    display: block;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+    text-align: left;
+}
+#seven{
+    height: 40px;
+    width: 68px;
+    padding: 8px 11px 8px 11px;
+    display: block;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+    text-align: left;
+}
+#eight{
+    height: 20px;
+    width: 60px;
+    padding: 6px 12px 6px 12px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    background-color: #2A6DFF;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    margin-top: 5px;
+}
+
+#as{
+    height: 350px;
+    width: 1350px;
+    display: flex;
+   
+    box-sizing: border-box;
+}
+#asch{
+    height: 300px;
+    width: 562px;
+    margin: 0 394px 0 394px;
+    padding: 24px 24px 24px 24px;
+    border: 1px  solid black;
+    display: block;
+}
+#header{
+    height: 57px;
+    width: 514px;
+    margin: 0 0 8px 0;
+    display: block;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 57px;
+    color: #303030;
+}
+#head-below{
+    height: 200px;
+    width: 514px;
+    margin: 0 0 24px 0;
+    
+    text-align: left;
+}
+#sub-below{
+    height: 65px;
+    width: 514px;
+    margin: 0 0 16px 0;
+    display: block;
+   
+}
+#label{
+    height: 21px;
+    width: 36px;
+    display: inline-block;
+    cursor: default;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+}
+#form{
+    height: 30px;
+    width: 480px;
+    padding: 6px 12px 6px 12px;
+    display: block;
+    cursor: text;
+    font-size: 16px;
+    line-height: 24px;
+    color: #303030;
+}
+#btn{
+    height: 38px;
+    width: 514px;
+    padding: 6px 12px 6px 12px;
+    display: block;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    white-space: pre;
+    color: white;
+    background-color: #2A6DFF;
+}
+#last{
+    height: 32px;
+    width: 530px;
+    margin: 0 -8px 0 -8px;
+    display: flex;
+   
+    gap: 135px;
+}
+#ancher{
+    height: auto;
+    width: auto;
+    display: inline;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    text-align: left;
+    text-decoration: underline rgb(0, 77, 246);
+    color: #004DF6;
+    margin-left: 9px;
+}
+#dk{
+    height: 32px;
+    width: 245px;
+    padding: 0 8px 0 8px;
+    
+    text-align: left;
+}
+#anch{
+    height: auto;
+    width: auto;
+    display: inline;
+    font-size: 14px;
+    line-height: 21px;
+}
